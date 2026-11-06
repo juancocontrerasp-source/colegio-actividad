@@ -1,0 +1,7 @@
+# Archivos de compilación y temporales de Java.
+build/
+build-check/
+*.class
+
+# Configuración local, que puede contener credenciales reales.
+config/database.properties
